@@ -50,4 +50,4 @@ An issue tracker with login, assignment, filtering and dashboard charts.
 
 Looking for backend or full-stack work in Germany.
 
-[rickyfrancis.com](https://rickyfrancis.com) · [rickyfrancisrozario@gmail.com](mailto:rickyfrancisrozario@gmail.com)
+[rickyfrancis.com](https://rickyfrancis.com) · [LinkedIn](https://www.linkedin.com/in/ricky-francis/) · [rickyfrancisrozario@gmail.com](mailto:rickyfrancisrozario@gmail.com)
